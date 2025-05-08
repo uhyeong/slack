@@ -3,7 +3,7 @@ env:
   git-credential-helper: yes
   variables:
     # package 파라미터 정의
-    PACKAGE_S3_BUCKET: course-good593
+    PACKAGE_S3_BUCKET: course-uhyeong
 
 phases:
   install:
